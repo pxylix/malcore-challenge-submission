@@ -1,3 +1,6 @@
+
+![alt text](image.png)
+
 # malcore-challenge-submission
 Malcore Challenge Submission based on [this](https://x.com/Malcoreio/status/1824899739491737844)
 
