@@ -97,3 +97,13 @@ Remember to exercise caution when accessing or downloading files from untrusted 
 
 
 </details> 
+
+# Outcome 
+
+> As for solution you are correct about how it is. You just didn't get the right base64 from the reversing. 
+
+# Solution 
+
+[`https://blog.khairulazam.net/2024/08/19/malcore-io-challenge-stacy/`](https://blog.khairulazam.net/2024/08/19/malcore-io-challenge-stacy/)
+- Nice write up of the solution
+- RE 
